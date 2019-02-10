@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://laequo.openc2.org/sitemap.xml
